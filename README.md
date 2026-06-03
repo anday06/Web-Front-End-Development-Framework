@@ -32,7 +32,7 @@ Dự án được thiết kế để đáp ứng đầy đủ và xuất sắc *
 ```text
 ├── backend/            # Chứa mã nguồn Node.js Express Server
 ├── frontend/           # Chứa mã nguồn React.js Vite Application
-├── MERN_Blog_API.postman_collection.json # File tổng hợp test toàn bộ API
+├── Test_API_Postman.postman_collection.json # File tổng hợp test toàn bộ API bằng Postman
 └── README.md           # Hướng dẫn dự án
 ```
 
@@ -97,7 +97,7 @@ npm run dev
 
 ## 📚 Danh sách API Endpoints (Dành cho Giảng Viên / Tester)
 
-Bạn có thể Import file `MERN_Blog_API.postman_collection.json` (đính kèm ở thư mục gốc) vào **Postman** để test nhanh các API.
+Bạn có thể Import file `Test_API_Postman.postman_collection.json` (đính kèm ở thư mục gốc) vào **Postman** để test nhanh các API.
 
 ### 🔑 Xác thực (Auth)
 
